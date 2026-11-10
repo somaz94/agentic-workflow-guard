@@ -3,7 +3,7 @@
 # multi-arch, and letting the toolchain stage run under QEMU emulation to
 # produce an arm64 binary is minutes of emulated compilation for no reason. Go
 # cross-compiles natively instead, driven by the TARGET* args buildx injects.
-FROM --platform=$BUILDPLATFORM golang:1.27-alpine@sha256:8a5910f31396cd4d89662f56c68b3ae31d374308270a1c3bd96672ee5ed43414 AS builder
+FROM --platform=$BUILDPLATFORM golang:1.27-alpine@sha256:fa3d596898d9f126af7c01d14ee7597bab3f39cccf392ef36b69fe77cd681f18 AS builder
 
 WORKDIR /build
 
