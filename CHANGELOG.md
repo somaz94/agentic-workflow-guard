@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+## Unreleased (2026-11-18)
+
+### Chores
+
+- **deps:** bump golang from `8a5910f` to `fa3d596` (#2) ([#2](https://github.com/somaz94/agentic-workflow-guard/pull/2)) ([d8c4588](https://github.com/somaz94/agentic-workflow-guard/commit/d8c4588c8e8ab344219cb121f39f57fbbe9fc282))
+- **deps:** bump alpine from `294b683` to `f59abe6` (#3) ([#3](https://github.com/somaz94/agentic-workflow-guard/pull/3)) ([9eac8f3](https://github.com/somaz94/agentic-workflow-guard/commit/9eac8f3692cf6f86c1cf2247d548c4ca7c932c04))
+- **deps:** bump go.yaml.in/yaml/v3 (#1) ([#1](https://github.com/somaz94/agentic-workflow-guard/pull/1)) ([67aabdb](https://github.com/somaz94/agentic-workflow-guard/commit/67aabdbe922212b5a8c1b660499ea6f3b3f2e43c))
+
+<br/>
+
 ## [v1.0.7](https://github.com/somaz94/agentic-workflow-guard/compare/v1.0.6...v1.0.7) (2026-11-09)
 
 ### Bug Fixes
